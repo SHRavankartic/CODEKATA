@@ -8,7 +8,7 @@ public class alphabet{
                 System.out.println("Alphabet");
             }
          else{
-                System.out.println("not alphabet");
+                System.out.println("No");
          }
 
              
