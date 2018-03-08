@@ -5,10 +5,10 @@ public class leap{
             Scanner s=new Scanner(System.in);
              a=s.nextInt();
              if(a%4==0){
-                System.out.println("IT IS LEAP YEAR"); 
+                System.out.println("LEAP YEAR"); 
              }
              else{
-                 System.out.println("IT IS  NOT LEAP YEAR"); 
+                 System.out.println("NOT LEAP YEAR"); 
              }
     }
 }
