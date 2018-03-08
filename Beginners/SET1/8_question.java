@@ -8,6 +8,9 @@ public class sum{
             for(int i=1;i<=a;i++){
               sum=sum+i;
             }
+            System.out.println("\n");
              System.out.println(sum);
     }
+      
+      
 }
