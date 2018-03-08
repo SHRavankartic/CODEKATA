@@ -8,4 +8,6 @@ public class len{
             int l=j.length();
             System.out.println(l); 
     }
+      
+      
 }
