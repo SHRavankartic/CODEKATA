@@ -14,6 +14,7 @@ public class sums{
             for(int i=0;i<=a;i++){
              sum=sum+b[i];
             }
+            System.out.println("\n");
              System.out.println(sum);
     }
 }
