@@ -7,13 +7,13 @@ public class great{
              b=s.nextInt();
              c=s.nextInt();
              if(a>b&&a>c){
-                 System.out.printf("%d is greater",a);
+                 System.out.printf("%d is greater:",a);
           }
            else if(b>c){
-                System.out.printf("%d is greater",b);
+                System.out.printf("%d is greater:",b);
            }
             else{
-                  System.out.printf("%d is greater",c);
+                  System.out.printf("%d is greater:",c);
             }   
       }
 }
